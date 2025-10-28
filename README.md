@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nikita Gupta 
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on backend project
+- 🌱 I’m currently Working in Mediatek
 - 📫 How to reach me https://www.linkedin.com/in/nikita-gupta-2572741b2/
 
 <!---
